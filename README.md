@@ -35,7 +35,7 @@ I don't remember which ones would be able to work in the browser. You may not wa
 
 ## E. Local apps (not in the browser)
 
-- Slint (Elm-like way to use Gtk; IIRC there were issues with this approach)
+- [Slint](https://github.com/slint-ui/slint) (originally Elm-like way to use Gtk?, but support for other platforms including web is "in progress", and Gtk isn't even mentioned any more)
 - [Tauri](https://tauri.app/): light-weight Electron replacement
 
 ## F. Others (I don't currently know anything about those)
